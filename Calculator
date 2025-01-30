@@ -1,6 +1,10 @@
 Aiza Azeem
 24-ST-031
-Cnsole.WriteLine(" Add two variables")
+Cnsole.WriteLine(" Add two variables");
 int x = Convert. ToInt32(Console.ReadLine());
-Console.WriteLine("Subtract two variables")
+Console.WriteLine("Subtract two variables");
 int x = Convert. ToInt32(Console.ReadLime());
+Console.WriteLine("Multiply two variables");
+int x Covert. TO Int32(Console.ReadLine());
+Console.WriteLine("Divide Two variables");
+int x = Convert.ToInt32(Console.ReadLIne());
